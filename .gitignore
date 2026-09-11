@@ -1,0 +1,5 @@
+/backup/
+/uploads/
+*.sql
+*.zip
+*.log
